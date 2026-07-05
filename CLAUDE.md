@@ -9,6 +9,21 @@ updates `word-of-the-day.json`; `.github/workflows/automerge.yml` merges it.
 used**. The daily word MUST be one that is not already in that array. This is
 how repeats are prevented — the file is the routine's memory.
 
+## Authentication: no personal access token
+
+Do **NOT** put a personal access token (PAT) in the routine prompt or in any
+file. The Claude Code environment this routine runs in is already authenticated
+to GitHub as the repo owner, so no token is needed:
+
+- The **GitHub MCP tools** (`create_branch`, `create_or_update_file`,
+  `create_pull_request`, …) act as the authenticated user. Prefer these — they
+  need no git checkout and no credentials.
+- The checked-out **git remote is pre-authenticated**, so a plain
+  `git push origin <branch>` works without any credential helper or token.
+
+If a hardcoded PAT ever appears in the routine, treat it as leaked: revoke it at
+https://github.com/settings/tokens and remove it — the routine does not need it.
+
 ## Steps for the daily update
 
 1. Read `word-of-the-day.json` and note the `history` array.
@@ -19,8 +34,9 @@ how repeats are prevented — the file is the routine's memory.
    - `date` — today's date in `YYYY-MM-DD` format.
    - `history` — the previous array with the new word appended to the end.
      Never remove or reorder existing entries; only append.
-4. Open the PR. Only `word-of-the-day.json` may change, or the automerge
-   workflow will reject it.
+4. Open the PR (via the GitHub MCP tools, or `git push` + `create_pull_request`).
+   Only `word-of-the-day.json` may change, or the automerge workflow will
+   reject it. Do not touch this file or any other in the daily PR.
 
 ## Sanity check before committing
 
