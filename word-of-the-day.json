@@ -1,8 +1,8 @@
 {
-  "word": "petrichor",
-  "part_of_speech": "noun",
-  "definition": "The distinctive, pleasant earthy scent produced when rain falls on dry soil, caused by oils from plants and a compound called geosmin released from the ground.",
-  "date": "2026-07-07",
+  "word": "crepuscular",
+  "part_of_speech": "adjective",
+  "definition": "Of, resembling, or relating to twilight; used especially to describe animals that are most active during the dim light of dawn and dusk.",
+  "date": "2026-07-08",
   "history": [
     "velleity",
     "liminal",
@@ -10,6 +10,7 @@
     "noctilucent",
     "susurrus",
     "apricity",
-    "petrichor"
+    "petrichor",
+    "crepuscular"
   ]
 }
