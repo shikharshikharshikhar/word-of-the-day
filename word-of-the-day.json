@@ -1,8 +1,8 @@
 {
-  "word": "crepuscular",
-  "part_of_speech": "adjective",
-  "definition": "Of, resembling, or relating to twilight; used especially to describe animals that are most active during the dim light of dawn and dusk.",
-  "date": "2026-07-08",
+  "word": "sillage",
+  "part_of_speech": "noun",
+  "definition": "The trail of scent left in the air by a person wearing perfume, or more broadly, the subtle impression or wake that someone leaves behind after passing.",
+  "date": "2026-07-09",
   "history": [
     "velleity",
     "liminal",
@@ -11,6 +11,7 @@
     "susurrus",
     "apricity",
     "petrichor",
-    "crepuscular"
+    "crepuscular",
+    "sillage"
   ]
 }
