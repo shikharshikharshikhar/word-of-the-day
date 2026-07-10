@@ -1,8 +1,8 @@
 {
-  "word": "sillage",
+  "word": "hiraeth",
   "part_of_speech": "noun",
-  "definition": "The trail of scent left in the air by a person wearing perfume, or more broadly, the subtle impression or wake that someone leaves behind after passing.",
-  "date": "2026-07-09",
+  "definition": "A Welsh concept describing a deep longing or nostalgia for a home, place, or era that may no longer exist or that one may never have truly had.",
+  "date": "2026-07-10",
   "history": [
     "velleity",
     "liminal",
@@ -12,6 +12,7 @@
     "apricity",
     "petrichor",
     "crepuscular",
-    "sillage"
+    "sillage",
+    "hiraeth"
   ]
 }
