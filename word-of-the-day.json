@@ -1,8 +1,8 @@
 {
-  "word": "hiraeth",
-  "part_of_speech": "noun",
-  "definition": "A Welsh concept describing a deep longing or nostalgia for a home, place, or era that may no longer exist or that one may never have truly had.",
-  "date": "2026-07-10",
+  "word": "numinous",
+  "part_of_speech": "adjective",
+  "definition": "Having a strong spiritual quality that evokes a sense of awe or the presence of something divine and beyond ordinary understanding.",
+  "date": "2026-07-11",
   "history": [
     "velleity",
     "liminal",
@@ -13,6 +13,7 @@
     "petrichor",
     "crepuscular",
     "sillage",
-    "hiraeth"
+    "hiraeth",
+    "numinous"
   ]
 }
