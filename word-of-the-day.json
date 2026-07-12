@@ -1,8 +1,8 @@
 {
-  "word": "numinous",
-  "part_of_speech": "adjective",
-  "definition": "Having a strong spiritual quality that evokes a sense of awe or the presence of something divine and beyond ordinary understanding.",
-  "date": "2026-07-11",
+  "word": "eigengrau",
+  "part_of_speech": "noun",
+  "definition": "The uniform dark gray color perceived by the eye in the absence of all light, caused by spontaneous activity of retinal cells rather than true blackness.",
+  "date": "2026-07-12",
   "history": [
     "velleity",
     "liminal",
@@ -14,6 +14,7 @@
     "crepuscular",
     "sillage",
     "hiraeth",
-    "numinous"
+    "numinous",
+    "eigengrau"
   ]
 }
