@@ -1,8 +1,8 @@
 {
-  "word": "phosphene",
+  "word": "palimpsest",
   "part_of_speech": "noun",
-  "definition": "A luminous visual sensation—rings, sparks, or colors—perceived in the absence of external light, caused by mechanical or electrical stimulation of the retina.",
-  "date": "2026-07-13",
+  "definition": "A manuscript or writing surface whose original text has been scraped away and overwritten, yet still bears visible traces of what came before; used broadly for anything that carries layered marks of its own past.",
+  "date": "2026-07-14",
   "history": [
     "velleity",
     "liminal",
@@ -16,6 +16,7 @@
     "hiraeth",
     "numinous",
     "eigengrau",
-    "phosphene"
+    "phosphene",
+    "palimpsest"
   ]
 }
