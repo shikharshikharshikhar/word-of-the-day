@@ -1,8 +1,8 @@
 {
-  "word": "palimpsest",
+  "word": "quiddity",
   "part_of_speech": "noun",
-  "definition": "A manuscript or writing surface whose original text has been scraped away and overwritten, yet still bears visible traces of what came before; used broadly for anything that carries layered marks of its own past.",
-  "date": "2026-07-14",
+  "definition": "The inherent, essential nature that makes a thing precisely what it is; the 'whatness' of a thing, as distinguished from its existence or accidental qualities.",
+  "date": "2026-07-15",
   "history": [
     "velleity",
     "liminal",
@@ -17,6 +17,7 @@
     "numinous",
     "eigengrau",
     "phosphene",
-    "palimpsest"
+    "palimpsest",
+    "quiddity"
   ]
 }
