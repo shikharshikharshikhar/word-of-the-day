@@ -1,8 +1,8 @@
 {
-  "word": "oneiric",
-  "part_of_speech": "adjective",
-  "definition": "Of, relating to, or having the quality of dreams; dreamy and surreal in character.",
-  "date": "2026-07-23",
+  "word": "zugzwang",
+  "part_of_speech": "noun",
+  "definition": "A situation, originally in chess, in which any move a player is compelled to make will worsen their position; a state of forced disadvantage.",
+  "date": "2026-07-24",
   "history": [
     "velleity",
     "liminal",
@@ -26,6 +26,7 @@
     "tenebrous",
     "lambent",
     "nacreous",
-    "oneiric"
+    "oneiric",
+    "zugzwang"
   ]
 }
