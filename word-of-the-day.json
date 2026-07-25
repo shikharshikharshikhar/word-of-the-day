@@ -1,8 +1,8 @@
 {
-  "word": "zugzwang",
+  "word": "syzygy",
   "part_of_speech": "noun",
-  "definition": "A situation, originally in chess, in which any move a player is compelled to make will worsen their position; a state of forced disadvantage.",
-  "date": "2026-07-24",
+  "definition": "The alignment of three or more celestial bodies in a straight line, as when the sun, earth, and moon form a conjunction or opposition, producing tidal extremes and eclipses.",
+  "date": "2026-07-25",
   "history": [
     "velleity",
     "liminal",
@@ -27,6 +27,7 @@
     "lambent",
     "nacreous",
     "oneiric",
-    "zugzwang"
+    "zugzwang",
+    "syzygy"
   ]
 }
