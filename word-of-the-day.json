@@ -1,8 +1,8 @@
 {
-  "word": "sehnsucht",
+  "word": "limerence",
   "part_of_speech": "noun",
-  "definition": "An intense, bittersweet longing for an ideal, beautiful, or transcendent state that feels fundamentally unattainable — a yearning not for a specific thing, but for something just beyond the reach of understanding or expression.",
-  "date": "2026-07-26",
+  "definition": "An involuntary, obsessive state of intense romantic attraction characterized by intrusive thoughts about the object of desire and an overwhelming longing for reciprocation.",
+  "date": "2026-07-27",
   "history": [
     "velleity",
     "liminal",
@@ -29,6 +29,7 @@
     "oneiric",
     "zugzwang",
     "syzygy",
-    "sehnsucht"
+    "sehnsucht",
+    "limerence"
   ]
 }
