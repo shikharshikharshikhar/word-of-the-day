@@ -1,8 +1,8 @@
 {
-  "word": "effulgent",
-  "part_of_speech": "adjective",
-  "definition": "Radiating a brilliant, intense light; shining forth with a luminous, resplendent glow.",
-  "date": "2026-07-29",
+  "word": "widdershins",
+  "part_of_speech": "adverb",
+  "definition": "In a direction contrary to the sun's course (counterclockwise), traditionally considered unlucky or associated with the occult in Scottish and English folklore.",
+  "date": "2026-07-30",
   "history": [
     "velleity",
     "liminal",
@@ -32,6 +32,7 @@
     "sehnsucht",
     "limerence",
     "amaranthine",
-    "effulgent"
+    "effulgent",
+    "widdershins"
   ]
 }
