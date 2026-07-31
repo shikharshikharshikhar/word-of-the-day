@@ -1,8 +1,8 @@
 {
-  "word": "widdershins",
-  "part_of_speech": "adverb",
-  "definition": "In a direction contrary to the sun's course (counterclockwise), traditionally considered unlucky or associated with the occult in Scottish and English folklore.",
-  "date": "2026-07-30",
+  "word": "diaphanous",
+  "part_of_speech": "adjective",
+  "definition": "Light, delicate, and translucent, as if allowing light to pass through with an ethereal, almost ghostly quality.",
+  "date": "2026-07-31",
   "history": [
     "velleity",
     "liminal",
@@ -33,6 +33,7 @@
     "limerence",
     "amaranthine",
     "effulgent",
-    "widdershins"
+    "widdershins",
+    "diaphanous"
   ]
 }
