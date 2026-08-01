@@ -1,8 +1,8 @@
 {
-  "word": "diaphanous",
-  "part_of_speech": "adjective",
-  "definition": "Light, delicate, and translucent, as if allowing light to pass through with an ethereal, almost ghostly quality.",
-  "date": "2026-07-31",
+  "word": "solastalgia",
+  "part_of_speech": "noun",
+  "definition": "A form of emotional or existential distress caused by environmental change, particularly the transformation or degradation of one's home environment.",
+  "date": "2026-08-01",
   "history": [
     "velleity",
     "liminal",
@@ -34,6 +34,7 @@
     "amaranthine",
     "effulgent",
     "widdershins",
-    "diaphanous"
+    "diaphanous",
+    "solastalgia"
   ]
 }
