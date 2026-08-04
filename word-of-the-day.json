@@ -1,8 +1,8 @@
 {
-  "word": "apophenia",
+  "word": "aporia",
   "part_of_speech": "noun",
-  "definition": "The tendency to perceive meaningful connections, patterns, or relationships between unrelated things.",
-  "date": "2026-08-03",
+  "definition": "A state of genuine philosophical puzzlement or an irresolvable paradox encountered when two equally valid but opposing arguments lead to an impasse.",
+  "date": "2026-08-04",
   "history": [
     "velleity",
     "liminal",
@@ -37,6 +37,7 @@
     "diaphanous",
     "solastalgia",
     "aubade",
-    "apophenia"
+    "apophenia",
+    "aporia"
   ]
 }
