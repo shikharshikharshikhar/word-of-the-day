@@ -1,8 +1,8 @@
 {
-  "word": "widdershins",
-  "part_of_speech": "adverb",
-  "definition": "In a direction contrary to the sun's course (counterclockwise), traditionally considered unlucky or associated with the occult in Scottish and English folklore.",
-  "date": "2026-07-30",
+  "word": "eudaimonia",
+  "part_of_speech": "noun",
+  "definition": "The highest human good in Aristotelian ethics, describing a state of flourishing and well-being achieved through living virtuously and in accordance with one's highest potential.",
+  "date": "2026-08-05",
   "history": [
     "velleity",
     "liminal",
@@ -33,6 +33,7 @@
     "limerence",
     "amaranthine",
     "effulgent",
-    "widdershins"
+    "widdershins",
+    "eudaimonia"
   ]
 }
