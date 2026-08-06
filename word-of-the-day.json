@@ -1,8 +1,8 @@
 {
-  "word": "aporia",
+  "word": "cacoethes",
   "part_of_speech": "noun",
-  "definition": "A state of genuine philosophical puzzlement or an irresolvable paradox encountered when two equally valid but opposing arguments lead to an impasse.",
-  "date": "2026-08-04",
+  "definition": "An irresistible compulsion or urge to do something inadvisable, most famously used in the Latin phrase 'cacoethes scribendi' — the uncontrollable itch to write.",
+  "date": "2026-08-06",
   "history": [
     "velleity",
     "liminal",
@@ -38,6 +38,7 @@
     "solastalgia",
     "aubade",
     "apophenia",
-    "aporia"
+    "aporia",
+    "cacoethes"
   ]
 }
