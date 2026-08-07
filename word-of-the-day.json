@@ -1,8 +1,8 @@
 {
-  "word": "cacoethes",
+  "word": "eudaimonia",
   "part_of_speech": "noun",
-  "definition": "An irresistible compulsion or urge to do something inadvisable, most famously used in the Latin phrase 'cacoethes scribendi' — the uncontrollable itch to write.",
-  "date": "2026-08-06",
+  "definition": "In Aristotelian ethics, the highest form of human flourishing and happiness achieved through virtuous living and the full realization of one's potential; often translated simply as 'the good life.'",
+  "date": "2026-08-07",
   "history": [
     "velleity",
     "liminal",
@@ -39,6 +39,7 @@
     "aubade",
     "apophenia",
     "aporia",
-    "cacoethes"
+    "cacoethes",
+    "eudaimonia"
   ]
 }
