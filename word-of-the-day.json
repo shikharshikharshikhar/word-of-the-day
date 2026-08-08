@@ -1,8 +1,8 @@
 {
-  "word": "eudaimonia",
+  "word": "threnody",
   "part_of_speech": "noun",
-  "definition": "In Aristotelian ethics, the highest form of human flourishing and happiness achieved through virtuous living and the full realization of one's potential; often translated simply as 'the good life.'",
-  "date": "2026-08-07",
+  "definition": "A song, poem, or piece of music composed as a lament for the dead; a mournful dirge or elegy expressing grief and mourning.",
+  "date": "2026-08-08",
   "history": [
     "velleity",
     "liminal",
@@ -40,6 +40,7 @@
     "apophenia",
     "aporia",
     "cacoethes",
-    "eudaimonia"
+    "eudaimonia",
+    "threnody"
   ]
 }
