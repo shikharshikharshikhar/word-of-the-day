@@ -1,8 +1,8 @@
 {
-  "word": "eucatastrophe",
+  "word": "sfumato",
   "part_of_speech": "noun",
-  "definition": "A sudden, miraculous turn of events that rescues a story or situation from seemingly inevitable doom, a term coined by J.R.R. Tolkien to describe the joyous climactic reversal at the heart of great myth.",
-  "date": "2026-08-10",
+  "definition": "A painting technique, perfected by Leonardo da Vinci, in which tonal boundaries are imperceptibly softened so that forms seem to dissolve and melt into one another rather than being separated by sharp outlines.",
+  "date": "2026-08-11",
   "history": [
     "velleity",
     "liminal",
@@ -43,6 +43,7 @@
     "eudaimonia",
     "threnody",
     "eleutheromania",
-    "eucatastrophe"
+    "eucatastrophe",
+    "sfumato"
   ]
 }
