@@ -1,8 +1,8 @@
 {
-  "word": "meraki",
+  "word": "kairos",
   "part_of_speech": "noun",
-  "definition": "A Greek concept describing the soul, creativity, and wholehearted devotion one pours into an activity, so that a piece of oneself is left behind in the work.",
-  "date": "2026-08-12",
+  "definition": "The right or opportune moment in time — a qualitative, decisive instant when conditions align for meaningful action, as distinguished from chronos, the mere sequential passage of time.",
+  "date": "2026-08-13",
   "history": [
     "velleity",
     "liminal",
@@ -45,6 +45,7 @@
     "eleutheromania",
     "eucatastrophe",
     "sfumato",
-    "meraki"
+    "meraki",
+    "kairos"
   ]
 }
