@@ -1,8 +1,8 @@
 {
-  "word": "kairos",
+  "word": "sophrosyne",
   "part_of_speech": "noun",
-  "definition": "The right or opportune moment in time — a qualitative, decisive instant when conditions align for meaningful action, as distinguished from chronos, the mere sequential passage of time.",
-  "date": "2026-08-13",
+  "definition": "An ancient Greek ideal of sound-mindedness and self-mastery — the harmonious balance of reason, moderation, and excellence of character that enables a person to live wisely and well.",
+  "date": "2026-08-14",
   "history": [
     "velleity",
     "liminal",
@@ -46,6 +46,7 @@
     "eucatastrophe",
     "sfumato",
     "meraki",
-    "kairos"
+    "kairos",
+    "sophrosyne"
   ]
 }
