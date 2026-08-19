@@ -1,8 +1,8 @@
 {
-  "word": "sophrosyne",
+  "word": "kenopsia",
   "part_of_speech": "noun",
-  "definition": "An ancient Greek ideal of sound-mindedness and self-mastery — the harmonious balance of reason, moderation, and excellence of character that enables a person to live wisely and well.",
-  "date": "2026-08-14",
+  "definition": "The eerie, forlorn atmosphere of a place that is usually bustling with people but is now abandoned and silent, evoking a sense of uncanny emptiness.",
+  "date": "2026-08-19",
   "history": [
     "velleity",
     "liminal",
@@ -47,6 +47,7 @@
     "sfumato",
     "meraki",
     "kairos",
-    "sophrosyne"
+    "sophrosyne",
+    "kenopsia"
   ]
 }
