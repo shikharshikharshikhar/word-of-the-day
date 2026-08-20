@@ -1,8 +1,8 @@
 {
-  "word": "kenopsia",
+  "word": "sonder",
   "part_of_speech": "noun",
-  "definition": "The eerie, forlorn atmosphere of a place that is usually bustling with people but is now abandoned and silent, evoking a sense of uncanny emptiness.",
-  "date": "2026-08-19",
+  "definition": "The profound, fleeting realization that each passerby is living a life as vivid and complex as one's own, complete with its own ambitions, routines, and inner world.",
+  "date": "2026-08-20",
   "history": [
     "velleity",
     "liminal",
@@ -48,6 +48,7 @@
     "meraki",
     "kairos",
     "sophrosyne",
-    "kenopsia"
+    "kenopsia",
+    "sonder"
   ]
 }
