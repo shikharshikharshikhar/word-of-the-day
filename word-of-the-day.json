@@ -1,8 +1,8 @@
 {
-  "word": "sonder",
+  "word": "ataraxia",
   "part_of_speech": "noun",
-  "definition": "The profound, fleeting realization that each passerby is living a life as vivid and complex as one's own, complete with its own ambitions, routines, and inner world.",
-  "date": "2026-08-20",
+  "definition": "A state of serene tranquility and freedom from mental disturbance, prized by ancient Epicurean and Stoic philosophers as the highest attainable form of happiness.",
+  "date": "2026-08-21",
   "history": [
     "velleity",
     "liminal",
@@ -49,6 +49,7 @@
     "kairos",
     "sophrosyne",
     "kenopsia",
-    "sonder"
+    "sonder",
+    "ataraxia"
   ]
 }
