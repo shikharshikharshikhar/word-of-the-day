@@ -1,8 +1,8 @@
 {
-  "word": "sophrosyne",
+  "word": "acedia",
   "part_of_speech": "noun",
-  "definition": "An ancient Greek ideal of sound-mindedness and self-mastery — the harmonious balance of reason, moderation, and excellence of character that enables a person to live wisely and well.",
-  "date": "2026-08-14",
+  "definition": "A state of listlessness, torpor, and profound spiritual apathy, historically known as the 'noon-day demon' of early Christian monasticism and counted among the seven deadly sins.",
+  "date": "2026-08-22",
   "history": [
     "velleity",
     "liminal",
@@ -47,6 +47,7 @@
     "sfumato",
     "meraki",
     "kairos",
-    "sophrosyne"
+    "sophrosyne",
+    "acedia"
   ]
 }
