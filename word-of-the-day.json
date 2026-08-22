@@ -1,8 +1,8 @@
 {
-  "word": "ataraxia",
+  "word": "acedia",
   "part_of_speech": "noun",
-  "definition": "A state of serene tranquility and freedom from mental disturbance, prized by ancient Epicurean and Stoic philosophers as the highest attainable form of happiness.",
-  "date": "2026-08-21",
+  "definition": "A state of listlessness, torpor, and profound spiritual apathy, historically known as the 'noon-day demon' of early Christian monasticism and counted among the seven deadly sins.",
+  "date": "2026-08-22",
   "history": [
     "velleity",
     "liminal",
@@ -50,6 +50,7 @@
     "sophrosyne",
     "kenopsia",
     "sonder",
-    "ataraxia"
+    "ataraxia",
+    "acedia"
   ]
 }
