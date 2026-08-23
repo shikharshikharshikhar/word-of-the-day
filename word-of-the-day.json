@@ -1,8 +1,8 @@
 {
-  "word": "acedia",
+  "word": "saudade",
   "part_of_speech": "noun",
-  "definition": "A state of listlessness, torpor, and profound spiritual apathy, historically known as the 'noon-day demon' of early Christian monasticism and counted among the seven deadly sins.",
-  "date": "2026-08-22",
+  "definition": "A profound, melancholic longing for someone or something beloved that is absent, lost, or may never have existed, evoking a bittersweet awareness of impermanence.",
+  "date": "2026-08-23",
   "history": [
     "velleity",
     "liminal",
@@ -51,6 +51,7 @@
     "kenopsia",
     "sonder",
     "ataraxia",
-    "acedia"
+    "acedia",
+    "saudade"
   ]
 }
