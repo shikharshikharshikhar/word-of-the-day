@@ -1,8 +1,8 @@
 {
-  "word": "saudade",
+  "word": "querencia",
   "part_of_speech": "noun",
-  "definition": "A profound, melancholic longing for someone or something beloved that is absent, lost, or may never have existed, evoking a bittersweet awareness of impermanence.",
-  "date": "2026-08-23",
+  "definition": "A place or sanctuary where one feels most safe, authentic, and at home, from which inner strength and identity are drawn.",
+  "date": "2026-08-24",
   "history": [
     "velleity",
     "liminal",
@@ -52,6 +52,7 @@
     "sonder",
     "ataraxia",
     "acedia",
-    "saudade"
+    "saudade",
+    "querencia"
   ]
 }
