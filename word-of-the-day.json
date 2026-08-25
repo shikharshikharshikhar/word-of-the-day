@@ -1,8 +1,8 @@
 {
-  "word": "querencia",
-  "part_of_speech": "noun",
-  "definition": "A place or sanctuary where one feels most safe, authentic, and at home, from which inner strength and identity are drawn.",
-  "date": "2026-08-24",
+  "word": "solivagant",
+  "part_of_speech": "adjective",
+  "definition": "Wandering alone; given to solitary roaming or traveling without companions.",
+  "date": "2026-08-25",
   "history": [
     "velleity",
     "liminal",
@@ -53,6 +53,7 @@
     "ataraxia",
     "acedia",
     "saudade",
-    "querencia"
+    "querencia",
+    "solivagant"
   ]
 }
