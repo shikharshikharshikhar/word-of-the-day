@@ -1,8 +1,8 @@
 {
-  "word": "sidereal",
-  "part_of_speech": "adjective",
-  "definition": "Of or relating to the stars; used to describe time, motion, or position measured with respect to the distant fixed stars rather than the sun.",
-  "date": "2026-08-26",
+  "word": "calenture",
+  "part_of_speech": "noun",
+  "definition": "A fever or delirium historically attributed to sailors in tropical climates, causing them to mistake the glittering sea for green fields and leap overboard.",
+  "date": "2026-08-27",
   "history": [
     "velleity",
     "liminal",
@@ -55,6 +55,7 @@
     "saudade",
     "querencia",
     "solivagant",
-    "sidereal"
+    "sidereal",
+    "calenture"
   ]
 }
