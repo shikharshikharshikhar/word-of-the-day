@@ -1,8 +1,8 @@
 {
-  "word": "yugen",
+  "word": "anagnorisis",
   "part_of_speech": "noun",
-  "definition": "A profound, mysterious awareness of the universe that triggers emotions too deep and subtle for words, central to Japanese aesthetics.",
-  "date": "2026-08-28",
+  "definition": "The moment of critical recognition or discovery in a dramatic narrative when a character suddenly comes to know something previously unknown—about themselves, another person, or their situation—that irrevocably changes the course of events.",
+  "date": "2026-08-29",
   "history": [
     "velleity",
     "liminal",
@@ -57,6 +57,7 @@
     "solivagant",
     "sidereal",
     "calenture",
-    "yugen"
+    "yugen",
+    "anagnorisis"
   ]
 }
