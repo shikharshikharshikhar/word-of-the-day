@@ -1,8 +1,8 @@
 {
-  "word": "anagnorisis",
+  "word": "paracosm",
   "part_of_speech": "noun",
-  "definition": "The moment of critical recognition or discovery in a dramatic narrative when a character suddenly comes to know something previously unknown—about themselves, another person, or their situation—that irrevocably changes the course of events.",
-  "date": "2026-08-29",
+  "definition": "A detailed, internally consistent imaginary world created in the mind—often with its own geography, history, characters, and rules—that persists over time and feels as vivid and real to its creator as the external world.",
+  "date": "2026-08-30",
   "history": [
     "velleity",
     "liminal",
@@ -58,6 +58,7 @@
     "sidereal",
     "calenture",
     "yugen",
-    "anagnorisis"
+    "anagnorisis",
+    "paracosm"
   ]
 }
