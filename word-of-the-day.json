@@ -1,8 +1,8 @@
 {
-  "word": "paracosm",
+  "word": "meliorism",
   "part_of_speech": "noun",
-  "definition": "A detailed, internally consistent imaginary world created in the mind—often with its own geography, history, characters, and rules—that persists over time and feels as vivid and real to its creator as the external world.",
-  "date": "2026-08-30",
+  "definition": "The philosophical doctrine that the world can be made meaningfully better through deliberate human effort, occupying a principled middle ground between pessimism and optimism.",
+  "date": "2026-08-31",
   "history": [
     "velleity",
     "liminal",
@@ -59,6 +59,7 @@
     "calenture",
     "yugen",
     "anagnorisis",
-    "paracosm"
+    "paracosm",
+    "meliorism"
   ]
 }
