@@ -1,8 +1,8 @@
 {
-  "word": "vellichor",
+  "word": "hypnagogia",
   "part_of_speech": "noun",
-  "definition": "The strange wistfulness of used bookstores, an ache for all the books you will never have time to read, their accumulated lives and stories waiting silently on the shelves.",
-  "date": "2026-09-02",
+  "definition": "The transitional state of consciousness between wakefulness and sleep, characterized by vivid, dreamlike imagery and hallucinatory sensations that feel startlingly real.",
+  "date": "2026-09-03",
   "history": [
     "velleity",
     "liminal",
@@ -62,6 +62,7 @@
     "paracosm",
     "meliorism",
     "chrysalism",
-    "vellichor"
+    "vellichor",
+    "hypnagogia"
   ]
 }
