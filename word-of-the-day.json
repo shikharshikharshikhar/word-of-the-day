@@ -1,8 +1,8 @@
 {
-  "word": "hypnagogia",
+  "word": "weltschmerz",
   "part_of_speech": "noun",
-  "definition": "The transitional state of consciousness between wakefulness and sleep, characterized by vivid, dreamlike imagery and hallucinatory sensations that feel startlingly real.",
-  "date": "2026-09-03",
+  "definition": "A deep, melancholy weariness or sorrow felt at the state of the world, born from the painful gap between how things are and how one wishes they could be.",
+  "date": "2026-09-04",
   "history": [
     "velleity",
     "liminal",
@@ -63,6 +63,7 @@
     "meliorism",
     "chrysalism",
     "vellichor",
-    "hypnagogia"
+    "hypnagogia",
+    "weltschmerz"
   ]
 }
