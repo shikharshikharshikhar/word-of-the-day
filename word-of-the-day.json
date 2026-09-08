@@ -1,8 +1,8 @@
 {
-  "word": "tintinnabulation",
+  "word": "orrery",
   "part_of_speech": "noun",
-  "definition": "The ringing or tinkling sound of bells, a word immortalized by Edgar Allan Poe in his 1849 poem 'The Bells,' where it evokes the full emotional spectrum from joyful silver sleigh bells to the mournful iron tolling of funeral bells.",
-  "date": "2026-09-07",
+  "definition": "A mechanical model of the solar system that uses gears and clockwork to demonstrate the relative positions, sizes, and motions of the planets and their moons around the sun.",
+  "date": "2026-09-08",
   "history": [
     "velleity",
     "liminal",
@@ -67,6 +67,7 @@
     "weltschmerz",
     "murmuration",
     "chiaroscuro",
-    "tintinnabulation"
+    "tintinnabulation",
+    "orrery"
   ]
 }
