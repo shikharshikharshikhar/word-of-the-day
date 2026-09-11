@@ -1,8 +1,8 @@
 {
-  "word": "scripturient",
-  "part_of_speech": "adjective",
-  "definition": "Possessed by a powerful, irresistible urge to write, or characterized by an obsessive desire to express oneself through the written word.",
-  "date": "2026-09-10",
+  "word": "anemoia",
+  "part_of_speech": "noun",
+  "definition": "A wistful nostalgia for a time one has never actually lived through, felt when encountering old photographs, films, or artifacts from an era before one's own existence.",
+  "date": "2026-09-11",
   "history": [
     "velleity",
     "liminal",
@@ -70,6 +70,7 @@
     "tintinnabulation",
     "orrery",
     "apotropaic",
-    "scripturient"
+    "scripturient",
+    "anemoia"
   ]
 }
