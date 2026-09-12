@@ -1,8 +1,8 @@
 {
-  "word": "anemoia",
-  "part_of_speech": "noun",
-  "definition": "A wistful nostalgia for a time one has never actually lived through, felt when encountering old photographs, films, or artifacts from an era before one's own existence.",
-  "date": "2026-09-11",
+  "word": "luculent",
+  "part_of_speech": "adjective",
+  "definition": "Clearly expressed and easily understood; possessing a luminous clarity of thought or language that illuminates meaning rather than obscuring it.",
+  "date": "2026-09-12",
   "history": [
     "velleity",
     "liminal",
@@ -71,6 +71,7 @@
     "orrery",
     "apotropaic",
     "scripturient",
-    "anemoia"
+    "anemoia",
+    "luculent"
   ]
 }
