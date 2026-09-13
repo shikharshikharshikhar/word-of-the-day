@@ -1,8 +1,8 @@
 {
-  "word": "luculent",
-  "part_of_speech": "adjective",
-  "definition": "Clearly expressed and easily understood; possessing a luminous clarity of thought or language that illuminates meaning rather than obscuring it.",
-  "date": "2026-09-12",
+  "word": "metanoia",
+  "part_of_speech": "noun",
+  "definition": "A profound transformative change of heart or mind, often involving a fundamental shift in one's values, beliefs, or way of living.",
+  "date": "2026-09-13",
   "history": [
     "velleity",
     "liminal",
@@ -72,6 +72,7 @@
     "apotropaic",
     "scripturient",
     "anemoia",
-    "luculent"
+    "luculent",
+    "metanoia"
   ]
 }
