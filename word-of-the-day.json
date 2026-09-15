@@ -1,8 +1,8 @@
 {
-  "word": "eidolon",
+  "word": "horripilation",
   "part_of_speech": "noun",
-  "definition": "An idealized image or phantom of a real person; in ancient Greek thought, a ghostly double or spectral replica that the soul projects, distinct from the physical body.",
-  "date": "2026-09-14",
+  "definition": "The physiological phenomenon of goosebumps; the erection of hairs on the skin in response to cold, fear, or excitement, creating a prickling sensation across the surface of the body.",
+  "date": "2026-09-15",
   "history": [
     "velleity",
     "liminal",
@@ -74,6 +74,7 @@
     "anemoia",
     "luculent",
     "metanoia",
-    "eidolon"
+    "eidolon",
+    "horripilation"
   ]
 }
