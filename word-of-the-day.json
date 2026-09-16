@@ -1,8 +1,8 @@
 {
-  "word": "horripilation",
+  "word": "desiderium",
   "part_of_speech": "noun",
-  "definition": "The physiological phenomenon of goosebumps; the erection of hairs on the skin in response to cold, fear, or excitement, creating a prickling sensation across the surface of the body.",
-  "date": "2026-09-15",
+  "definition": "An intense longing or grief for something absent, lost, or once possessed; a poignant yearning tinged with sorrow for what can no longer be had.",
+  "date": "2026-09-16",
   "history": [
     "velleity",
     "liminal",
@@ -75,6 +75,7 @@
     "luculent",
     "metanoia",
     "eidolon",
-    "horripilation"
+    "horripilation",
+    "desiderium"
   ]
 }
