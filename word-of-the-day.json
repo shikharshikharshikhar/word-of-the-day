@@ -1,8 +1,8 @@
 {
-  "word": "desiderium",
+  "word": "clinamen",
   "part_of_speech": "noun",
-  "definition": "An intense longing or grief for something absent, lost, or once possessed; a poignant yearning tinged with sorrow for what can no longer be had.",
-  "date": "2026-09-16",
+  "definition": "In Epicurean philosophy, the spontaneous and unpredictable swerve of an atom from its downward path, held to be the origin of free will and creativity; any small generative deviation from an expected course.",
+  "date": "2026-09-17",
   "history": [
     "velleity",
     "liminal",
@@ -76,6 +76,7 @@
     "metanoia",
     "eidolon",
     "horripilation",
-    "desiderium"
+    "desiderium",
+    "clinamen"
   ]
 }
