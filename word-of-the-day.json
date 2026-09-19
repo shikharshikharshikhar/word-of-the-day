@@ -1,8 +1,8 @@
 {
-  "word": "tarantism",
+  "word": "alexithymia",
   "part_of_speech": "noun",
-  "definition": "A historical condition of irresistible urge to dance, epidemic in southern Italy from the 15th to 17th centuries, popularly attributed to the bite of the tarantula spider.",
-  "date": "2026-09-18",
+  "definition": "A psychological condition characterized by difficulty identifying, describing, and expressing one's own emotions and internal states.",
+  "date": "2026-09-19",
   "history": [
     "velleity",
     "liminal",
@@ -78,6 +78,7 @@
     "horripilation",
     "desiderium",
     "clinamen",
-    "tarantism"
+    "tarantism",
+    "alexithymia"
   ]
 }
