@@ -1,8 +1,8 @@
 {
-  "word": "alexithymia",
+  "word": "ululation",
   "part_of_speech": "noun",
-  "definition": "A psychological condition characterized by difficulty identifying, describing, and expressing one's own emotions and internal states.",
-  "date": "2026-09-19",
+  "definition": "A prolonged, high-pitched, wavering vocal sound made as an expression of intense emotion, such as grief or celebration, common in many cultures worldwide.",
+  "date": "2026-09-20",
   "history": [
     "velleity",
     "liminal",
@@ -79,6 +79,7 @@
     "desiderium",
     "clinamen",
     "tarantism",
-    "alexithymia"
+    "alexithymia",
+    "ululation"
   ]
 }
