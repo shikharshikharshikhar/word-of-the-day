@@ -1,8 +1,8 @@
 {
-  "word": "ululation",
-  "part_of_speech": "noun",
-  "definition": "A prolonged, high-pitched, wavering vocal sound made as an expression of intense emotion, such as grief or celebration, common in many cultures worldwide.",
-  "date": "2026-09-20",
+  "word": "fugacious",
+  "part_of_speech": "adjective",
+  "definition": "Tending to disappear or pass away quickly; fleeting and transient, as if always just on the verge of vanishing.",
+  "date": "2026-09-21",
   "history": [
     "velleity",
     "liminal",
@@ -80,6 +80,7 @@
     "clinamen",
     "tarantism",
     "alexithymia",
-    "ululation"
+    "ululation",
+    "fugacious"
   ]
 }
