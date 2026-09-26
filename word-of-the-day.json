@@ -1,8 +1,8 @@
 {
-  "word": "nychthemeron",
-  "part_of_speech": "noun",
-  "definition": "A complete period of twenty-four consecutive hours, encompassing both a full day and night.",
-  "date": "2026-09-25",
+  "word": "tergiversate",
+  "part_of_speech": "verb",
+  "definition": "To make evasive or contradictory statements, or to abandon one's cause or allegiances in an unprincipled way.",
+  "date": "2026-09-26",
   "history": [
     "velleity",
     "liminal",
@@ -85,6 +85,7 @@
     "anfractuous",
     "diapason",
     "ultracrepidarian",
-    "nychthemeron"
+    "nychthemeron",
+    "tergiversate"
   ]
 }
