@@ -1,8 +1,8 @@
 {
-  "word": "pandiculation",
+  "word": "kenning",
   "part_of_speech": "noun",
-  "definition": "The act of stretching and yawning simultaneously, especially upon waking from sleep.",
-  "date": "2026-09-27",
+  "definition": "A compound poetic expression used in Old English and Old Norse verse to describe something without naming it directly, such as \"whale-road\" for the sea or \"battle-dew\" for blood.",
+  "date": "2026-09-28",
   "history": [
     "velleity",
     "liminal",
@@ -87,6 +87,7 @@
     "ultracrepidarian",
     "nychthemeron",
     "tergiversate",
-    "pandiculation"
+    "pandiculation",
+    "kenning"
   ]
 }
