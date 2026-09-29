@@ -1,8 +1,8 @@
 {
-  "word": "kenning",
+  "word": "thaumaturgy",
   "part_of_speech": "noun",
-  "definition": "A compound poetic expression used in Old English and Old Norse verse to describe something without naming it directly, such as \"whale-road\" for the sea or \"battle-dew\" for blood.",
-  "date": "2026-09-28",
+  "definition": "The performance of miracles or magical feats; the supposed ability to work wonders that transcend the ordinary laws of nature.",
+  "date": "2026-09-29",
   "history": [
     "velleity",
     "liminal",
@@ -88,6 +88,7 @@
     "nychthemeron",
     "tergiversate",
     "pandiculation",
-    "kenning"
+    "kenning",
+    "thaumaturgy"
   ]
 }
