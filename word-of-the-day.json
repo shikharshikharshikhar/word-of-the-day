@@ -1,8 +1,8 @@
 {
-  "word": "thaumaturgy",
+  "word": "rodomontade",
   "part_of_speech": "noun",
-  "definition": "The performance of miracles or magical feats; the supposed ability to work wonders that transcend the ordinary laws of nature.",
-  "date": "2026-09-29",
+  "definition": "Boastful or inflated talk or behavior; vainglorious bragging that exceeds the reality of one's actual deeds or abilities.",
+  "date": "2026-09-30",
   "history": [
     "velleity",
     "liminal",
@@ -89,6 +89,7 @@
     "tergiversate",
     "pandiculation",
     "kenning",
-    "thaumaturgy"
+    "thaumaturgy",
+    "rodomontade"
   ]
 }
