@@ -1,8 +1,8 @@
 {
-  "word": "lethologica",
+  "word": "hamartia",
   "part_of_speech": "noun",
-  "definition": "The inability to remember the right word at the moment it is needed, often experienced as a frustrating mental blankness during conversation or writing.",
-  "date": "2026-10-01",
+  "definition": "In classical tragedy, the fatal flaw or error in judgment inherent in a hero's character that inevitably precipitates their downfall.",
+  "date": "2026-10-02",
   "history": [
     "velleity",
     "liminal",
@@ -91,6 +91,7 @@
     "kenning",
     "thaumaturgy",
     "rodomontade",
-    "lethologica"
+    "lethologica",
+    "hamartia"
   ]
 }
