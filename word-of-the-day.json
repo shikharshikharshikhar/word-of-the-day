@@ -1,8 +1,8 @@
 {
-  "word": "hamartia",
-  "part_of_speech": "noun",
-  "definition": "In classical tragedy, the fatal flaw or error in judgment inherent in a hero's character that inevitably precipitates their downfall.",
-  "date": "2026-10-02",
+  "word": "ineffable",
+  "part_of_speech": "adjective",
+  "definition": "Too great, extreme, or extraordinary to be adequately expressed or described in words; inexpressible.",
+  "date": "2026-10-03",
   "history": [
     "velleity",
     "liminal",
@@ -92,6 +92,7 @@
     "thaumaturgy",
     "rodomontade",
     "lethologica",
-    "hamartia"
+    "hamartia",
+    "ineffable"
   ]
 }
