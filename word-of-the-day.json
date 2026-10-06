@@ -1,8 +1,8 @@
 {
-  "word": "coruscate",
-  "part_of_speech": "verb",
-  "definition": "To emit or reflect vivid flashes of light; to sparkle or gleam brilliantly, as sunlight dancing on water.",
-  "date": "2026-10-05",
+  "word": "phantasmagoria",
+  "part_of_speech": "noun",
+  "definition": "A bewildering, rapidly shifting succession of real or imaginary figures, as experienced in a dream or fever — or conjured by a magic lantern.",
+  "date": "2026-10-06",
   "history": [
     "velleity",
     "liminal",
@@ -95,6 +95,7 @@
     "hamartia",
     "ineffable",
     "nefelibata",
-    "coruscate"
+    "coruscate",
+    "phantasmagoria"
   ]
 }
