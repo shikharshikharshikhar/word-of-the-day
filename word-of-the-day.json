@@ -1,8 +1,8 @@
 {
-  "word": "psychopomp",
+  "word": "aphelion",
   "part_of_speech": "noun",
-  "definition": "A guide who escorts newly deceased souls from the living world to the realm of the dead; in mythology and psychology, any figure or symbol that serves as a mediator between the conscious and unconscious realms.",
-  "date": "2026-10-08",
+  "definition": "The point in a planet's or comet's orbit at which it is farthest from the sun; by extension, the most remote or distant point of any journey or experience.",
+  "date": "2026-10-09",
   "history": [
     "velleity",
     "liminal",
@@ -98,6 +98,7 @@
     "coruscate",
     "phantasmagoria",
     "lagniappe",
-    "psychopomp"
+    "psychopomp",
+    "aphelion"
   ]
 }
