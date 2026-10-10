@@ -1,8 +1,8 @@
 {
-  "word": "aphelion",
+  "word": "tmesis",
   "part_of_speech": "noun",
-  "definition": "The point in a planet's or comet's orbit at which it is farthest from the sun; by extension, the most remote or distant point of any journey or experience.",
-  "date": "2026-10-09",
+  "definition": "A rhetorical figure in which a word or phrase is split by the insertion of another word, as in 'abso-blooming-lutely' or 'what-so-ever.'",
+  "date": "2026-10-10",
   "history": [
     "velleity",
     "liminal",
@@ -99,6 +99,7 @@
     "phantasmagoria",
     "lagniappe",
     "psychopomp",
-    "aphelion"
+    "aphelion",
+    "tmesis"
   ]
 }
