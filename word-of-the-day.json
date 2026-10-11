@@ -1,8 +1,8 @@
 {
-  "word": "tmesis",
+  "word": "gossamer",
   "part_of_speech": "noun",
-  "definition": "A rhetorical figure in which a word or phrase is split by the insertion of another word, as in 'abso-blooming-lutely' or 'what-so-ever.'",
-  "date": "2026-10-10",
+  "definition": "Delicate, sheer strands of cobweb seen floating in calm air or draped over grass in autumn; anything so light and fine as to seem barely tangible.",
+  "date": "2026-10-11",
   "history": [
     "velleity",
     "liminal",
@@ -100,6 +100,7 @@
     "lagniappe",
     "psychopomp",
     "aphelion",
-    "tmesis"
+    "tmesis",
+    "gossamer"
   ]
 }
