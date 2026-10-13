@@ -1,8 +1,8 @@
 {
-  "word": "empyrean",
-  "part_of_speech": "noun",
-  "definition": "The highest heaven in ancient and medieval cosmology, thought to be composed of pure fire or light and the dwelling place of the divine; any sublime, boundless expanse of sky.",
-  "date": "2026-10-12",
+  "word": "fuliginous",
+  "part_of_speech": "adjective",
+  "definition": "Resembling or covered in soot; having the dark, murky quality of smoke — used to describe anything sooty, dusky, or obscured as if by the haze of smoldering ash.",
+  "date": "2026-10-13",
   "history": [
     "velleity",
     "liminal",
@@ -102,6 +102,7 @@
     "aphelion",
     "tmesis",
     "gossamer",
-    "empyrean"
+    "empyrean",
+    "fuliginous"
   ]
 }
