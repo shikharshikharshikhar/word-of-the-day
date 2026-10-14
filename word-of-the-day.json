@@ -1,8 +1,8 @@
 {
-  "word": "fuliginous",
-  "part_of_speech": "adjective",
-  "definition": "Resembling or covered in soot; having the dark, murky quality of smoke — used to describe anything sooty, dusky, or obscured as if by the haze of smoldering ash.",
-  "date": "2026-10-13",
+  "word": "sciolist",
+  "part_of_speech": "noun",
+  "definition": "A person who pretends to have more knowledge than they actually possess; a superficial dabbler who affects expertise in a subject they only half understand.",
+  "date": "2026-10-14",
   "history": [
     "velleity",
     "liminal",
@@ -103,6 +103,7 @@
     "tmesis",
     "gossamer",
     "empyrean",
-    "fuliginous"
+    "fuliginous",
+    "sciolist"
   ]
 }
