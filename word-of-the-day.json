@@ -1,8 +1,8 @@
 {
-  "word": "eldritch",
-  "part_of_speech": "adjective",
-  "definition": "Strange, eerie, and otherworldly in a way that inspires a sense of dread or the uncanny; suggestive of the supernatural.",
-  "date": "2026-10-16",
+  "word": "penumbra",
+  "part_of_speech": "noun",
+  "definition": "The partially illuminated region surrounding the full shadow cast by an opaque object, or by extension any peripheral, uncertain, or twilight zone between two clearly defined states.",
+  "date": "2026-10-17",
   "history": [
     "velleity",
     "liminal",
@@ -106,6 +106,7 @@
     "fuliginous",
     "sciolist",
     "lucubration",
-    "eldritch"
+    "eldritch",
+    "penumbra"
   ]
 }
