@@ -1,8 +1,8 @@
 {
-  "word": "apocatastasis",
+  "word": "anamnesis",
   "part_of_speech": "noun",
-  "definition": "The theological and philosophical doctrine of universal restoration, holding that all souls—and even the cosmos itself—will ultimately be reconciled to a state of perfection.",
-  "date": "2026-10-18",
+  "definition": "The Platonic doctrine that all learning is recollection — that the soul, having existed before birth, already contains knowledge of eternal truths which education merely draws back into conscious awareness.",
+  "date": "2026-10-19",
   "history": [
     "velleity",
     "liminal",
@@ -108,6 +108,7 @@
     "lucubration",
     "eldritch",
     "penumbra",
-    "apocatastasis"
+    "apocatastasis",
+    "anamnesis"
   ]
 }
