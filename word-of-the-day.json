@@ -1,8 +1,8 @@
 {
-  "word": "anamnesis",
-  "part_of_speech": "noun",
-  "definition": "The Platonic doctrine that all learning is recollection — that the soul, having existed before birth, already contains knowledge of eternal truths which education merely draws back into conscious awareness.",
-  "date": "2026-10-19",
+  "word": "caliginous",
+  "part_of_speech": "adjective",
+  "definition": "Characterized by thick, misty darkness; used to evoke an atmosphere of shadowy obscurity where forms dissolve into an impenetrable gloom.",
+  "date": "2026-10-20",
   "history": [
     "velleity",
     "liminal",
@@ -109,6 +109,7 @@
     "eldritch",
     "penumbra",
     "apocatastasis",
-    "anamnesis"
+    "anamnesis",
+    "caliginous"
   ]
 }
