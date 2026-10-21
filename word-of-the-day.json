@@ -1,8 +1,8 @@
 {
-  "word": "caliginous",
-  "part_of_speech": "adjective",
-  "definition": "Characterized by thick, misty darkness; used to evoke an atmosphere of shadowy obscurity where forms dissolve into an impenetrable gloom.",
-  "date": "2026-10-20",
+  "word": "adumbrate",
+  "part_of_speech": "verb",
+  "definition": "To sketch or outline in a faint or shadowy way; to foreshadow or indicate vaguely, as when the dim contours of a coming event are felt before its full form becomes clear.",
+  "date": "2026-10-21",
   "history": [
     "velleity",
     "liminal",
@@ -110,6 +110,7 @@
     "penumbra",
     "apocatastasis",
     "anamnesis",
-    "caliginous"
+    "caliginous",
+    "adumbrate"
   ]
 }
