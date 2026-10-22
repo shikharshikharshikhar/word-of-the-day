@@ -1,8 +1,8 @@
 {
-  "word": "adumbrate",
-  "part_of_speech": "verb",
-  "definition": "To sketch or outline in a faint or shadowy way; to foreshadow or indicate vaguely, as when the dim contours of a coming event are felt before its full form becomes clear.",
-  "date": "2026-10-21",
+  "word": "mumpsimus",
+  "part_of_speech": "noun",
+  "definition": "A person who clings stubbornly to an erroneous custom or belief even after being shown it is wrong, or the mistaken practice itself — named from a monk said to have mispronounced 'sumpsimus' in the Mass and refused to change.",
+  "date": "2026-10-22",
   "history": [
     "velleity",
     "liminal",
@@ -111,6 +111,7 @@
     "apocatastasis",
     "anamnesis",
     "caliginous",
-    "adumbrate"
+    "adumbrate",
+    "mumpsimus"
   ]
 }
