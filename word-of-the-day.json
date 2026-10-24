@@ -1,8 +1,8 @@
 {
-  "word": "pareidolia",
+  "word": "gloaming",
   "part_of_speech": "noun",
-  "definition": "The psychological tendency to perceive meaningful patterns, faces, or familiar shapes in random or ambiguous visual stimuli — such as seeing a face in clouds, a figure in tree bark, or the man in the moon.",
-  "date": "2026-10-23",
+  "definition": "The soft, diffuse twilight at dusk when daylight fades and the sky takes on a luminous, atmospheric quality before full darkness descends.",
+  "date": "2026-10-24",
   "history": [
     "velleity",
     "liminal",
@@ -113,6 +113,7 @@
     "caliginous",
     "adumbrate",
     "mumpsimus",
-    "pareidolia"
+    "pareidolia",
+    "gloaming"
   ]
 }
