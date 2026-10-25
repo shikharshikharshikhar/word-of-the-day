@@ -1,8 +1,8 @@
 {
-  "word": "gloaming",
-  "part_of_speech": "noun",
-  "definition": "The soft, diffuse twilight at dusk when daylight fades and the sky takes on a luminous, atmospheric quality before full darkness descends.",
-  "date": "2026-10-24",
+  "word": "mellifluous",
+  "part_of_speech": "adjective",
+  "definition": "Having a sweet, smooth, musical quality that flows pleasantly to the ear, as if sweetened with honey.",
+  "date": "2026-10-25",
   "history": [
     "velleity",
     "liminal",
@@ -114,6 +114,7 @@
     "adumbrate",
     "mumpsimus",
     "pareidolia",
-    "gloaming"
+    "gloaming",
+    "mellifluous"
   ]
 }
