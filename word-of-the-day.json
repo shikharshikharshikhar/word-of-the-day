@@ -1,8 +1,8 @@
 {
-  "word": "aposiopesis",
+  "word": "borborygmus",
   "part_of_speech": "noun",
-  "definition": "A rhetorical device in which a speaker deliberately breaks off mid-sentence, leaving a thought incomplete to imply something too intense, threatening, or overwhelming to finish.",
-  "date": "2026-10-26",
+  "definition": "The rumbling or gurgling sound produced by gas and fluid moving through the intestines.",
+  "date": "2026-10-27",
   "history": [
     "velleity",
     "liminal",
@@ -116,6 +116,7 @@
     "pareidolia",
     "gloaming",
     "mellifluous",
-    "aposiopesis"
+    "aposiopesis",
+    "borborygmus"
   ]
 }
