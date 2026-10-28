@@ -1,8 +1,8 @@
 {
-  "word": "borborygmus",
-  "part_of_speech": "noun",
-  "definition": "The rumbling or gurgling sound produced by gas and fluid moving through the intestines.",
-  "date": "2026-10-27",
+  "word": "plangent",
+  "part_of_speech": "adjective",
+  "definition": "Having a loud, reverberant quality that evokes a sense of sadness or longing; (of sound) mournfully resonant.",
+  "date": "2026-10-28",
   "history": [
     "velleity",
     "liminal",
@@ -117,6 +117,7 @@
     "gloaming",
     "mellifluous",
     "aposiopesis",
-    "borborygmus"
+    "borborygmus",
+    "plangent"
   ]
 }
