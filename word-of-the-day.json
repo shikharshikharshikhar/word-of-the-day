@@ -1,8 +1,8 @@
 {
-  "word": "lachrymose",
-  "part_of_speech": "adjective",
-  "definition": "Given to weeping or producing tears; excessively sentimental or mournful in character.",
-  "date": "2026-10-29",
+  "word": "zoetrope",
+  "part_of_speech": "noun",
+  "definition": "An optical device consisting of a spinning cylinder with slits and sequential images that create the illusion of motion, serving as an early precursor to cinema and animation.",
+  "date": "2026-10-30",
   "history": [
     "velleity",
     "liminal",
@@ -119,6 +119,7 @@
     "aposiopesis",
     "borborygmus",
     "plangent",
-    "lachrymose"
+    "lachrymose",
+    "zoetrope"
   ]
 }
