@@ -1,8 +1,8 @@
 {
-  "word": "zoetrope",
+  "word": "catoptromancy",
   "part_of_speech": "noun",
-  "definition": "An optical device consisting of a spinning cylinder with slits and sequential images that create the illusion of motion, serving as an early precursor to cinema and animation.",
-  "date": "2026-10-30",
+  "definition": "The ancient practice of divination by gazing into a mirror or other reflective surface to perceive visions, omens, or glimpses of the future.",
+  "date": "2026-10-31",
   "history": [
     "velleity",
     "liminal",
@@ -120,6 +120,7 @@
     "borborygmus",
     "plangent",
     "lachrymose",
-    "zoetrope"
+    "zoetrope",
+    "catoptromancy"
   ]
 }
