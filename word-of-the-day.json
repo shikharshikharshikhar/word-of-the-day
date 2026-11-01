@@ -1,8 +1,8 @@
 {
-  "word": "catoptromancy",
+  "word": "kalopsia",
   "part_of_speech": "noun",
-  "definition": "The ancient practice of divination by gazing into a mirror or other reflective surface to perceive visions, omens, or glimpses of the future.",
-  "date": "2026-10-31",
+  "definition": "A condition of the mind in which things appear more beautiful or perfect than they truly are, as though one is perceiving the world through an idealized, rose-tinted lens.",
+  "date": "2026-11-01",
   "history": [
     "velleity",
     "liminal",
@@ -121,6 +121,7 @@
     "plangent",
     "lachrymose",
     "zoetrope",
-    "catoptromancy"
+    "catoptromancy",
+    "kalopsia"
   ]
 }
