@@ -1,8 +1,8 @@
 {
-  "word": "kalopsia",
+  "word": "oneiromancy",
   "part_of_speech": "noun",
-  "definition": "A condition of the mind in which things appear more beautiful or perfect than they truly are, as though one is perceiving the world through an idealized, rose-tinted lens.",
-  "date": "2026-11-01",
+  "definition": "The practice of interpreting dreams to foretell future events or gain prophetic insight, an art observed across ancient civilizations from Greece to Egypt.",
+  "date": "2026-11-02",
   "history": [
     "velleity",
     "liminal",
@@ -122,6 +122,7 @@
     "lachrymose",
     "zoetrope",
     "catoptromancy",
-    "kalopsia"
+    "kalopsia",
+    "oneiromancy"
   ]
 }
