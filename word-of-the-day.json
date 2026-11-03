@@ -1,8 +1,8 @@
 {
-  "word": "oneiromancy",
+  "word": "nepenthe",
   "part_of_speech": "noun",
-  "definition": "The practice of interpreting dreams to foretell future events or gain prophetic insight, an art observed across ancient civilizations from Greece to Egypt.",
-  "date": "2026-11-02",
+  "definition": "A legendary potion or drug described in ancient literature said to banish grief and sorrow from the mind, bringing blissful forgetfulness to those who partake of it.",
+  "date": "2026-11-03",
   "history": [
     "velleity",
     "liminal",
@@ -123,6 +123,7 @@
     "zoetrope",
     "catoptromancy",
     "kalopsia",
-    "oneiromancy"
+    "oneiromancy",
+    "nepenthe"
   ]
 }
