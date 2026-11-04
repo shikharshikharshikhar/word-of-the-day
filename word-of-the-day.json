@@ -1,8 +1,8 @@
 {
-  "word": "nepenthe",
+  "word": "deipnosophist",
   "part_of_speech": "noun",
-  "definition": "A legendary potion or drug described in ancient literature said to banish grief and sorrow from the mind, bringing blissful forgetfulness to those who partake of it.",
-  "date": "2026-11-03",
+  "definition": "A person who is skilled at the art of dining and witty, learned conversation at the table, from the ancient Greek tradition of philosophers who discoursed over elaborate meals.",
+  "date": "2026-11-04",
   "history": [
     "velleity",
     "liminal",
@@ -124,6 +124,7 @@
     "catoptromancy",
     "kalopsia",
     "oneiromancy",
-    "nepenthe"
+    "nepenthe",
+    "deipnosophist"
   ]
 }
