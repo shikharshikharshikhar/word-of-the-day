@@ -1,8 +1,8 @@
 {
-  "word": "deipnosophist",
+  "word": "philippic",
   "part_of_speech": "noun",
-  "definition": "A person who is skilled at the art of dining and witty, learned conversation at the table, from the ancient Greek tradition of philosophers who discoursed over elaborate meals.",
-  "date": "2026-11-04",
+  "definition": "A bitter verbal attack or denunciation; named after the orations of Demosthenes against Philip II of Macedon in the 4th century BC.",
+  "date": "2026-11-05",
   "history": [
     "velleity",
     "liminal",
@@ -125,6 +125,7 @@
     "kalopsia",
     "oneiromancy",
     "nepenthe",
-    "deipnosophist"
+    "deipnosophist",
+    "philippic"
   ]
 }
