@@ -1,8 +1,8 @@
 {
-  "word": "philippic",
+  "word": "macarism",
   "part_of_speech": "noun",
-  "definition": "A bitter verbal attack or denunciation; named after the orations of Demosthenes against Philip II of Macedon in the 4th century BC.",
-  "date": "2026-11-05",
+  "definition": "The act of declaring another person blessed or happy; the form of expression used in such a pronouncement, as in the Beatitudes ('Blessed are the meek...').",
+  "date": "2026-11-06",
   "history": [
     "velleity",
     "liminal",
@@ -126,6 +126,7 @@
     "oneiromancy",
     "nepenthe",
     "deipnosophist",
-    "philippic"
+    "philippic",
+    "macarism"
   ]
 }
