@@ -1,8 +1,8 @@
 {
-  "word": "absquatulate",
-  "part_of_speech": "verb",
-  "definition": "To leave abruptly or secretly; to decamp or abscond without explanation.",
-  "date": "2026-11-10",
+  "word": "brontide",
+  "part_of_speech": "noun",
+  "definition": "A low, muffled sound resembling distant thunder, heard in certain regions and attributed to seismic activity or atmospheric disturbances.",
+  "date": "2026-11-11",
   "history": [
     "velleity",
     "liminal",
@@ -131,6 +131,7 @@
     "persiflage",
     "nyctophilia",
     "acatalepsy",
-    "absquatulate"
+    "absquatulate",
+    "brontide"
   ]
 }
