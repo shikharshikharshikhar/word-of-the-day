@@ -1,8 +1,8 @@
 {
-  "word": "ichor",
-  "part_of_speech": "noun",
-  "definition": "In Greek mythology, the ethereal golden fluid flowing through the veins of the gods instead of blood; also describes a watery, often foul discharge from a wound or ulcer.",
-  "date": "2026-11-12",
+  "word": "chthonic",
+  "part_of_speech": "adjective",
+  "definition": "Of, relating to, or dwelling in the underworld; pertaining to the spirits and deities of the earth and the dead in Greek mythology.",
+  "date": "2026-11-13",
   "history": [
     "velleity",
     "liminal",
@@ -133,6 +133,7 @@
     "acatalepsy",
     "absquatulate",
     "brontide",
-    "ichor"
+    "ichor",
+    "chthonic"
   ]
 }
