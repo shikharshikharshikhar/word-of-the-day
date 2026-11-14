@@ -1,8 +1,8 @@
 {
-  "word": "chthonic",
-  "part_of_speech": "adjective",
-  "definition": "Of, relating to, or dwelling in the underworld; pertaining to the spirits and deities of the earth and the dead in Greek mythology.",
-  "date": "2026-11-13",
+  "word": "apeiron",
+  "part_of_speech": "noun",
+  "definition": "The boundless, indefinite primordial substance posited by the ancient Greek philosopher Anaximander as the origin of all things in the universe.",
+  "date": "2026-11-14",
   "history": [
     "velleity",
     "liminal",
@@ -134,6 +134,7 @@
     "absquatulate",
     "brontide",
     "ichor",
-    "chthonic"
+    "chthonic",
+    "apeiron"
   ]
 }
