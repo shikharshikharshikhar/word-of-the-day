@@ -1,8 +1,8 @@
 {
-  "word": "apeiron",
-  "part_of_speech": "noun",
-  "definition": "The boundless, indefinite primordial substance posited by the ancient Greek philosopher Anaximander as the origin of all things in the universe.",
-  "date": "2026-11-14",
+  "word": "stelliferous",
+  "part_of_speech": "adjective",
+  "definition": "Having or abounding in stars; used to describe a sky, space, or expanse richly adorned with stars.",
+  "date": "2026-11-15",
   "history": [
     "velleity",
     "liminal",
@@ -135,6 +135,7 @@
     "brontide",
     "ichor",
     "chthonic",
-    "apeiron"
+    "apeiron",
+    "stelliferous"
   ]
 }
