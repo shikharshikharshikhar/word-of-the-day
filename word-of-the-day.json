@@ -1,8 +1,8 @@
 {
-  "word": "stelliferous",
-  "part_of_speech": "adjective",
-  "definition": "Having or abounding in stars; used to describe a sky, space, or expanse richly adorned with stars.",
-  "date": "2026-11-15",
+  "word": "catasterism",
+  "part_of_speech": "noun",
+  "definition": "The transformation of a person or object into a star or constellation, as described in ancient Greek mythology, or the account of such a transformation.",
+  "date": "2026-11-16",
   "history": [
     "velleity",
     "liminal",
@@ -136,6 +136,7 @@
     "ichor",
     "chthonic",
     "apeiron",
-    "stelliferous"
+    "stelliferous",
+    "catasterism"
   ]
 }
