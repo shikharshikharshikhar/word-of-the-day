@@ -1,8 +1,8 @@
 {
-  "word": "catasterism",
-  "part_of_speech": "noun",
-  "definition": "The transformation of a person or object into a star or constellation, as described in ancient Greek mythology, or the account of such a transformation.",
-  "date": "2026-11-16",
+  "word": "chatoyant",
+  "part_of_speech": "adjective",
+  "definition": "Exhibiting a soft, shifting luster or iridescence that moves in undulating bands as the angle of light changes, like the gleaming slit-pupil eye of a cat.",
+  "date": "2026-11-17",
   "history": [
     "velleity",
     "liminal",
@@ -137,6 +137,7 @@
     "chthonic",
     "apeiron",
     "stelliferous",
-    "catasterism"
+    "catasterism",
+    "chatoyant"
   ]
 }
