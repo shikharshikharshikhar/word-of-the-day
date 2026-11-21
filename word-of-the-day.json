@@ -1,8 +1,8 @@
 {
-  "word": "stygian",
-  "part_of_speech": "adjective",
-  "definition": "Of or relating to the river Styx of Greek mythology; used to describe something extremely dark, gloomy, or forbidding, as though belonging to the realm of the dead.",
-  "date": "2026-11-20",
+  "word": "zeugma",
+  "part_of_speech": "noun",
+  "definition": "A rhetorical figure in which a single word (usually a verb or adjective) governs or modifies two or more other words in the sentence, often in ways that are semantically incongruous or surprisingly poetic.",
+  "date": "2026-11-21",
   "history": [
     "velleity",
     "liminal",
@@ -141,6 +141,7 @@
     "chatoyant",
     "hypnopompic",
     "atrabilious",
-    "stygian"
+    "stygian",
+    "zeugma"
   ]
 }
