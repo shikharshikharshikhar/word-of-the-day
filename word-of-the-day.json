@@ -1,8 +1,8 @@
 {
-  "word": "zeugma",
+  "word": "lacuna",
   "part_of_speech": "noun",
-  "definition": "A rhetorical figure in which a single word (usually a verb or adjective) governs or modifies two or more other words in the sentence, often in ways that are semantically incongruous or surprisingly poetic.",
-  "date": "2026-11-21",
+  "definition": "A gap, missing portion, or empty space in a manuscript, text, or series; broadly, any conspicuous absence or void.",
+  "date": "2026-11-22",
   "history": [
     "velleity",
     "liminal",
@@ -142,6 +142,7 @@
     "hypnopompic",
     "atrabilious",
     "stygian",
-    "zeugma"
+    "zeugma",
+    "lacuna"
   ]
 }
