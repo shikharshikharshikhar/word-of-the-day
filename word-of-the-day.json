@@ -1,8 +1,8 @@
 {
-  "word": "lacuna",
+  "word": "florilegium",
   "part_of_speech": "noun",
-  "definition": "A gap, missing portion, or empty space in a manuscript, text, or series; broadly, any conspicuous absence or void.",
-  "date": "2026-11-22",
+  "definition": "A collection or anthology of carefully selected literary or artistic passages; from Latin flos (flower) and legere (to gather), literally meaning a gathering of flowers.",
+  "date": "2026-11-23",
   "history": [
     "velleity",
     "liminal",
@@ -143,6 +143,7 @@
     "atrabilious",
     "stygian",
     "zeugma",
-    "lacuna"
+    "lacuna",
+    "florilegium"
   ]
 }
