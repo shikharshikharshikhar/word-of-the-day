@@ -1,8 +1,8 @@
 {
-  "word": "florilegium",
+  "word": "simulacrum",
   "part_of_speech": "noun",
-  "definition": "A collection or anthology of carefully selected literary or artistic passages; from Latin flos (flower) and legere (to gather), literally meaning a gathering of flowers.",
-  "date": "2026-11-23",
+  "definition": "An image, likeness, or representation of a person or thing; philosophically, a copy that lacks the substance or qualities of the original, as explored by Plato and Jean Baudrillard.",
+  "date": "2026-11-24",
   "history": [
     "velleity",
     "liminal",
@@ -144,6 +144,7 @@
     "stygian",
     "zeugma",
     "lacuna",
-    "florilegium"
+    "florilegium",
+    "simulacrum"
   ]
 }
