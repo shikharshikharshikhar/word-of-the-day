@@ -1,8 +1,8 @@
 {
-  "word": "simulacrum",
-  "part_of_speech": "noun",
-  "definition": "An image, likeness, or representation of a person or thing; philosophically, a copy that lacks the substance or qualities of the original, as explored by Plato and Jean Baudrillard.",
-  "date": "2026-11-24",
+  "word": "apophatic",
+  "part_of_speech": "adjective",
+  "definition": "Relating to or denoting an approach to describing something — especially the divine — by negation, stating only what it is not rather than what it is; from Greek apophasis, meaning denial or negation.",
+  "date": "2026-11-25",
   "history": [
     "velleity",
     "liminal",
@@ -145,6 +145,7 @@
     "zeugma",
     "lacuna",
     "florilegium",
-    "simulacrum"
+    "simulacrum",
+    "apophatic"
   ]
 }
