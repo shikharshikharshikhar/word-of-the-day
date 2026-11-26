@@ -1,8 +1,8 @@
 {
-  "word": "apophatic",
-  "part_of_speech": "adjective",
-  "definition": "Relating to or denoting an approach to describing something — especially the divine — by negation, stating only what it is not rather than what it is; from Greek apophasis, meaning denial or negation.",
-  "date": "2026-11-25",
+  "word": "enantiodromia",
+  "part_of_speech": "noun",
+  "definition": "The philosophical principle, traced to Heraclitus and developed by Carl Jung, that any force or quality carried to an extreme will eventually generate and transform into its opposite.",
+  "date": "2026-11-26",
   "history": [
     "velleity",
     "liminal",
@@ -146,6 +146,7 @@
     "lacuna",
     "florilegium",
     "simulacrum",
-    "apophatic"
+    "apophatic",
+    "enantiodromia"
   ]
 }
