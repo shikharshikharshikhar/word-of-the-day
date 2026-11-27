@@ -1,8 +1,8 @@
 {
-  "word": "enantiodromia",
+  "word": "peregrination",
   "part_of_speech": "noun",
-  "definition": "The philosophical principle, traced to Heraclitus and developed by Carl Jung, that any force or quality carried to an extreme will eventually generate and transform into its opposite.",
-  "date": "2026-11-26",
+  "definition": "A long, meandering journey or pilgrimage, especially one undertaken on foot through foreign lands.",
+  "date": "2026-11-27",
   "history": [
     "velleity",
     "liminal",
@@ -147,6 +147,7 @@
     "florilegium",
     "simulacrum",
     "apophatic",
-    "enantiodromia"
+    "enantiodromia",
+    "peregrination"
   ]
 }
